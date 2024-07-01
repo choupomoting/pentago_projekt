@@ -1,0 +1,4 @@
+﻿  projekt_pentago.cpp
+C:\Users\Krzysztof\source\repos\projekt_pentago\projekt_pentago\projekt_pentago.cpp(207,9): warning C4101: "y": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Krzysztof\source\repos\projekt_pentago\projekt_pentago\projekt_pentago.cpp(206,9): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+  projekt_pentago.vcxproj -> C:\Users\Krzysztof\source\repos\projekt_pentago\Debug\projekt_pentago.exe
